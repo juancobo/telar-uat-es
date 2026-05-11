@@ -10,7 +10,7 @@ author: ""
 email: ""
 telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
 logo: ""
-telar_language: "en" # Options: "en" (English), "es" (Español)
+telar_language: "es" # Options: "en" (English), "es" (Español)
 collection_mode: false # Set to true to show objects first with large thumbnails and stories below with small thumbnails (collection-first homepage)
 
 # Story Interface Settings
